@@ -1,17 +1,9 @@
-#al definir una función le damos parametros
-def say_hello(name, emoji):
-  print(f'helloooo {name} {emoji}')
+#scope - what variables do I have access to?
 
-#al llamarla le damos argumentos
-say_hello('macu', '*') 
+if True:
+  x=10
 
-#we can define default parameters
-def say_bye(name='Darth Vader', emoji='*'): 
-  print(f'helloooo {name} {emoji}')
+def some_func():
+  total=100
 
-say_bye() #it will print darth vader
-
-#keyword arguments
-
-say_bye(emoji='RR', name='MAcu')
-say_bye('hola')
+print(x)

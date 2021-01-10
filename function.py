@@ -15,3 +15,14 @@ say_bye() #it will print darth vader
 
 say_bye(emoji='RR', name='MAcu')
 say_bye('hola')
+
+def test(a):
+  '''
+  Info: This function tests and prints param a
+  '''
+  print(a)
+
+test('!!!')
+help(test)
+
+print(test.__doc__)
