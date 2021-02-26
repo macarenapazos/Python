@@ -1,3 +1,9 @@
+###################################################################
+#                 Pazos Macarena Lab 3.1.4.6                      #
+###################################################################
+
+#LABORATORIO: Lo básico de las listas
+
 ﻿listaSombrero = [1, 2, 3, 4, 5] # Esta es una lista existente de números ocultos en el sombrero.
 
 # Paso 1: escribe una línea de código que solicite al usuario
